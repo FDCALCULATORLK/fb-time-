@@ -1,0 +1,6 @@
+{
+  "name": "FB TIME HUB",
+  "description": "Sri Lanka Master Clock to Global Facebook Page Times for UK, Ireland, US, and Australia with automated DST handling and post scheduling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
